@@ -1,0 +1,16 @@
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\bin\Debug\SpeedTool.exe
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\bin\Debug\SpeedTool.pdb
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Properties.Resources.resources
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.csproj.GenerateResource.cache
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.csproj.CoreCompileInputs.cache
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.exe
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.pdb
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Frm_Main.resources
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Frm_System.resources
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Frm_Start.resources
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.csprojAssemblyReference.cache
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Frm_Clean.resources
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Frm_Tools.resources
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Frm_Tools_CMD.resources
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Frm_Optimize.resources
+C:\Users\25689\Desktop\SpeedTool\SpeedTool\obj\Debug\SpeedTool.Frm_Tools_NetWorkTest.resources
